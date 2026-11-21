@@ -11,3 +11,5 @@ I also design databases, build Android apps, and develop software in C# and C++.
 [**Gdisk_download**](https://github.com/Mikhail-068/Gdisk_download) is a
 Windows app for downloading folders from Google Drive. You can select
 individual files and resume interrupted downloads.
+
+Built a C# / WPF downloader with resumable transfers and file integrity checks. GitHub Actions runs the Windows build and tests interrupted downloads.
