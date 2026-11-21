@@ -1,15 +1,34 @@
-# Hi, I'm Mikhail
+# Hi, I'm Mikhail 👋
 
-I'm an AI/ML engineer building production systems for computer vision,
-LLMs, retrieval-augmented generation (RAG), and AI agents.
-I work with Python, PyTorch, and YOLO.
+### AI/ML Engineer | Computer Vision | LLMs | AI Agents
 
-I also design databases, build Android apps, and develop software in C# and C++.
+I design and build **end-to-end AI-powered systems**, turning machine learning models into practical, production-ready applications.
 
-## Featured project
+My primary focus is **Computer Vision, Large Language Models (LLMs), and intelligent automation**, from model integration and inference optimization to backend services and deployment.
 
-[**Gdisk_download**](https://github.com/Mikhail-068/Gdisk_download) is a
-Windows app for downloading folders from Google Drive. You can select
-individual files and resume interrupted downloads.
+### 🧠 Areas of Expertise
 
-Built a C# / WPF downloader with resumable transfers and file integrity checks. GitHub Actions runs the Windows build and tests interrupted downloads.
+- **Computer Vision:** Object detection, tracking, segmentation, face recognition, OCR, and person re-identification (ReID).
+- **LLM Engineering:** Local LLM deployment, RAG pipelines, AI agents, tool calling, and workflow automation.
+- **AI Infrastructure:** GPU inference, model optimization, REST APIs, Docker, and scalable backend services.
+- **Software Engineering:** Python, PyTorch, YOLO, C#, C++, Android, SQL, and database architecture.
+
+### 🚀 What I Build
+
+I focus on developing complete AI solutions rather than isolated model demonstrations.
+
+My work includes intelligent video analytics, multi-camera tracking, identity recognition, document processing, conversational AI systems, and AI-powered business automation.
+
+### 📌 Featured Project
+
+**[Gdisk_download](https://github.com/Mikhail-068)**
+
+A Windows desktop application for downloading files and folders from Google Drive.
+
+Built with **C# and WPF**, featuring selective downloads, resumable transfers, and file integrity verification.
+
+Automated Windows builds and interrupted-download testing using GitHub Actions.
+
+---
+
+*Building AI systems that work beyond the notebook.*
